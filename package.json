@@ -2,7 +2,7 @@
   "name": "kanban-board",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/saikiran77803/Kanban-Board.git",
+  "homepage": "https://github.com/saikiran77803/Task-Management.git",
   "type": "module",
   "scripts": {
     "dev": "vite",
